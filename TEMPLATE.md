@@ -1,27 +1,26 @@
 # Full Name 
-
+Kesav Gopan 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+> I'm a conscientious Computer Engineering student, passionate about technology and eager to make apositive impact. With a diverse skill set in web development, design, and programming languages, I am well-equipped to contribute to your organization's success. Beyond my technical expertise, I bring a proactive and enthusiastic approach to problem solving,backed by a love for continuous learning and staying upto-date with the latest industry
+trends.
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+| Name                | Description                                                           | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| SDMA Website | STATE Disaster management project                                    | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- I participated in over 10 hackatons.
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
-
+- Hackathons are the main area of networking
 #### Career Plan:
 
 - outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
